@@ -1,0 +1,4 @@
+root=f385a1deb1831abd3a138e497e8e2fbdfeb234fc586b706b5cb3646a3cd43695
+rows=4
+max_id=4
+computed_at=2026-11-17T11:45:59Z
